@@ -8,3 +8,6 @@ Adding description
 Sample website with plenty of files for demos
 
 ## Adding third heading
+
+## Adding fourth heading\
+Comparing two changes
